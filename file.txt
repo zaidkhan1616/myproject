@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 anotehr main line
 
 conflict brancgh line
 
+=======
+new branch
+>>>>>>> cced315639c5684801fdc47d86ab89b7da875475

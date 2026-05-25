@@ -1,0 +1,11 @@
+name: Success Workflow
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Print Success Message
+        run: echo "Workflow executed successfully"
